@@ -1,7 +1,7 @@
 # EraseEasy (Background remover with Python)
 
 
-![App Screenshot](/img/usage.png)
+![App Screenshot](/img/preview.jpg)
 
 
 ## Usage 
